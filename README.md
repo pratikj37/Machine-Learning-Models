@@ -7,8 +7,8 @@
 
 # Grouping based on Functioning of Different Models
 
-  # 1. Regression Models
+   1. Regression Models
   
-  # 2. Classification Models
+   2. Classification Models
   
-  # 3. Clustering Models
+   3. Clustering Models
